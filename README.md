@@ -1,1 +1,8 @@
-# variable.tf
+variable "content" {
+
+}
+
+variable "prefix" {
+    default = "Mr"
+
+}
